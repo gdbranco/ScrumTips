@@ -1,0 +1,2 @@
+# ScrumTips
+Scrum Guide summary
